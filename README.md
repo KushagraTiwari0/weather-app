@@ -28,7 +28,7 @@ API Provider: OpenWeather API
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/KushagraTiwari0/weather-app.git
 cd weather-app
 
 2. Install Dependencies
